@@ -1,0 +1,20 @@
+{
+  "name": "jest-test-1",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "string-length.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiuseppeTG/jest-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiuseppeTG/jest-test/issues"
+  },
+  "homepage": "https://github.com/GiuseppeTG/jest-test#readme"
+}
