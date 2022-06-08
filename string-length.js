@@ -1,7 +1,7 @@
 function stringLength(string) {
-  let result = string.length;
+  const result = string.length;
   if (result < 1 || result > 10) {
-    return 'Error'
+    return 'Error';
   }
   return result;
 }
