@@ -13,7 +13,11 @@ In this exercise, I write a few practical tests for JavaScript functions using t
 
 To run this project locally on your computer clone using "git clone" command with this repo url.
 Open the file in your code editor. 
-Run: *npm test* and check the testing.
+
+Run: `npm install`.
+
+Run: `npm test` and check the testing.
+
 Thanks for watching.
 
 ## Authors
